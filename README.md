@@ -2,5 +2,5 @@
 
 Fourth Step pages
 
-* A
-* B
+* [Excel with Macros](/Fourth Step Inventory.xlsm)
+* [PDF](/Fourth Step Inventory.pdf)
